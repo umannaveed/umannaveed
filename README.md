@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @umannaveed
-- 👀 I’m interested in coding (python , C++ , C Basics
-- 🌱 I’m currently learning (BACHOLOR OF COMPUTER APPLICATIONS
+- 👀 I’m interested in coding (python,machine learning, deep learning, NLP) 
 - 💞️ I’m looking to collaborate on (PROJETS)
 - 📫 How to reach me (INSTA - Naveed_patel88847,Naveedpatel_88847(snap-Naveed88847)
 
